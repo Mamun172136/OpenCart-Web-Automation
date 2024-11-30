@@ -1,0 +1,118 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Opencart</groupId>
+  <artifactId>Opencart</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <build>
+        <pluginManagement>
+        <plugins>
+            <plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.11.0</version>
+			</plugin>
+
+          <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>3.1.2</version>
+                
+                <configuration>
+           <suiteXmlFiles>
+        <suiteXmlFile>master.xml</suiteXmlFile>
+            </suiteXmlFiles>
+            </configuration>
+            
+             </plugin>
+			
+			
+            
+	      </plugins>
+        </pluginManagement>
+    </build>
+
+  <dependencies>
+    <!-- Selenium dependency -->
+    <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-java</artifactId>
+        <version>4.26.0</version>
+    </dependency>
+
+    <!-- Apache POI dependencies -->
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi</artifactId>
+        <version>5.3.0</version>
+    </dependency>
+
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>5.3.0</version>
+    </dependency>
+
+    <!-- TestNG for testing -->
+    <dependency>
+        <groupId>org.testng</groupId>
+        <artifactId>testng</artifactId>
+        <version>7.10.1</version>
+        <scope>test</scope>
+    </dependency>
+
+    <!-- Extent Reports for reporting -->
+    <dependency>
+        <groupId>com.aventstack</groupId>
+        <artifactId>extentreports</artifactId>
+        <version>5.1.1</version>
+    </dependency>
+
+    <!-- Commons IO and Lang -->
+    <dependency>
+        <groupId>commons-io</groupId>
+        <artifactId>commons-io</artifactId>
+        <version>2.17.0</version>
+    </dependency>
+
+    <dependency>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-lang3</artifactId>
+        <version>3.17.0</version>
+    </dependency>
+
+    <!-- Log4j 2.x dependencies (Ensure matching versions) -->
+    <dependency>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-api</artifactId>
+        <version>2.23.1</version> <!-- Ensure same version across all Log4j dependencies -->
+    </dependency>
+
+    <dependency>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-core</artifactId>
+        <version>2.23.1</version> <!-- Keep the same version -->
+    </dependency>
+
+    <!-- Log4j 2.x SLF4J binding -->
+    <dependency>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-slf4j2-impl</artifactId>
+        <version>2.23.1</version> <!-- Ensure version matches log4j-api and log4j-core -->
+    </dependency>
+
+    <!-- SLF4J API (this should always be included for SLF4J to work) -->
+  <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-api</artifactId>
+        <version>1.7.32</version> <!-- Compatible version of SLF4J API -->
+    </dependency>
+    
+    <dependency>
+    <groupId>org.yaml</groupId>
+    <artifactId>snakeyaml</artifactId>
+    <version>1.30</version> <!-- or the latest version -->
+</dependency>
+
+  </dependencies>
+</project>

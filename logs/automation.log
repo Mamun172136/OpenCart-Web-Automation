@@ -1,0 +1,286 @@
+2024-11-30 18:07:09 INFO  TC003_LoginDDT:86 - Chrome browser launched
+2024-11-30 18:07:12 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:07:15 INFO  TC003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-11-30 18:07:15 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:07:16 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:07:18 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:07:39 INFO  TC003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-11-30 18:07:39 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:07:42 INFO  TC003_LoginDDT:116 - Browser closed successfully
+2024-11-30 18:10:30 INFO  TC003_LoginDDT:86 - Chrome browser launched
+2024-11-30 18:11:19 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:11:21 INFO  TC003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-11-30 18:11:21 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:11:24 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:11:26 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:11:47 INFO  TC003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-11-30 18:11:47 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:11:49 INFO  TC003_LoginDDT:116 - Browser closed successfully
+2024-11-30 18:13:39 INFO  TC003_LoginDDT:86 - Chrome browser launched
+2024-11-30 18:13:43 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:13:46 INFO  TC003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-11-30 18:13:46 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:14:07 INFO  TC003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-11-30 18:14:07 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:14:29 INFO  TC003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-11-30 18:14:29 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:14:51 INFO  TC003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-11-30 18:14:51 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:14:53 INFO  TC003_LoginDDT:116 - Browser closed successfully
+2024-11-30 18:29:25 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:29:26 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:29:26 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:29:27 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 18:29:27 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 18:29:27 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 18:29:27 INFO  TC001_AccountRegistrationTest:33 - last name.. 
+2024-11-30 18:29:27 INFO  TC001_AccountRegistrationTest:35 - email.. 
+2024-11-30 18:29:27 INFO  TC001_AccountRegistrationTest:37 - tele phone.. 
+2024-11-30 18:29:28 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-11-30 18:29:28 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2024-11-30 18:29:28 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:29:29 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 18:29:30 INFO  TC002_LoginTest:86 - Chrome browser launched
+2024-11-30 18:29:32 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-11-30 18:29:32 INFO  TC002_LoginTest:19 - in try block
+2024-11-30 18:29:32 INFO  TC002_LoginTest:23 - clicked on myaccount link on the home page..
+2024-11-30 18:29:32 INFO  TC002_LoginTest:25 - clicked on login link under myaccount..
+2024-11-30 18:29:32 INFO  TC002_LoginTest:29 - Entering valid email and password..
+2024-11-30 18:29:33 INFO  TC002_LoginTest:33 - clicked on ligin button..
+2024-11-30 18:29:35 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
+2024-11-30 18:29:36 INFO  TC002_LoginTest:116 - Browser closed successfully
+2024-11-30 18:29:38 INFO  TC003_LoginDDT:86 - Chrome browser launched
+2024-11-30 18:29:40 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:29:43 INFO  TC003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-11-30 18:29:43 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:30:04 INFO  TC003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-11-30 18:30:04 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:30:25 INFO  TC003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-11-30 18:30:25 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:30:47 INFO  TC003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-11-30 18:30:47 INFO  TC003_LoginDDT:16 - **** Starting TC_003_LoginDDT *****
+2024-11-30 18:30:49 INFO  TC003_LoginDDT:116 - Browser closed successfully
+2024-11-30 18:43:10 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:43:11 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:43:11 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:43:12 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 18:43:12 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 18:43:12 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 18:43:12 INFO  TC001_AccountRegistrationTest:33 - last name.. 
+2024-11-30 18:43:12 INFO  TC001_AccountRegistrationTest:35 - email.. 
+2024-11-30 18:43:12 INFO  TC001_AccountRegistrationTest:37 - tele phone.. 
+2024-11-30 18:43:13 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-11-30 18:43:13 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2024-11-30 18:43:13 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:43:13 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 18:43:15 INFO  TC002_LoginTest:86 - Chrome browser launched
+2024-11-30 18:43:16 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-11-30 18:43:16 INFO  TC002_LoginTest:19 - in try block
+2024-11-30 18:43:17 INFO  TC002_LoginTest:23 - clicked on myaccount link on the home page..
+2024-11-30 18:43:17 INFO  TC002_LoginTest:25 - clicked on login link under myaccount..
+2024-11-30 18:43:17 INFO  TC002_LoginTest:29 - Entering valid email and password..
+2024-11-30 18:43:18 INFO  TC002_LoginTest:33 - clicked on ligin button..
+2024-11-30 18:43:20 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
+2024-11-30 18:43:20 INFO  TC002_LoginTest:116 - Browser closed successfully
+2024-11-30 18:48:11 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:48:12 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:48:12 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:48:14 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:48:14 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:48:14 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:48:14 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:48:14 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:48:15 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:48:15 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 18:48:15 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 18:48:15 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:48:25 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:48:25 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 18:48:26 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:48:27 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 18:49:42 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:49:42 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:49:42 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:49:46 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:49:46 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:49:46 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:49:46 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:49:46 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:49:46 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:49:47 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 18:49:47 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 18:49:47 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:49:57 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:49:57 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 18:49:58 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:49:58 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 18:51:52 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:51:52 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:51:52 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:51:54 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:51:54 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:51:54 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:51:55 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:51:55 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:51:55 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:51:55 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 18:51:55 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 18:51:55 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:51:55 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:51:55 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 18:51:56 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:51:56 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 18:54:05 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:54:05 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:54:05 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 18:54:07 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:54:07 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:54:07 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 18:54:08 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:54:08 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:54:08 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 18:54:08 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 18:54:08 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 18:54:08 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:54:08 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:54:09 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 18:54:09 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 18:54:09 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 19:06:01 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 19:06:02 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 19:06:02 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 19:06:04 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 19:06:04 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 19:06:04 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 19:06:04 INFO  TC001_AccountRegistrationTest:33 - last name.. 
+2024-11-30 19:06:05 INFO  TC001_AccountRegistrationTest:35 - email.. 
+2024-11-30 19:06:05 INFO  TC001_AccountRegistrationTest:37 - tele phone.. 
+2024-11-30 19:06:06 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-11-30 19:06:06 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2024-11-30 19:06:06 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 19:06:07 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 19:06:10 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 19:06:15 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 19:06:15 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 19:06:16 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 19:06:16 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 19:06:16 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 19:06:16 INFO  TC001_AccountRegistrationTest:33 - last name.. 
+2024-11-30 19:06:16 INFO  TC001_AccountRegistrationTest:35 - email.. 
+2024-11-30 19:06:16 INFO  TC001_AccountRegistrationTest:37 - tele phone.. 
+2024-11-30 19:06:17 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-11-30 19:06:17 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2024-11-30 19:06:17 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 19:06:18 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 19:06:20 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 19:06:22 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 19:06:22 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 19:06:23 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 19:06:23 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 19:06:23 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 19:06:23 INFO  TC001_AccountRegistrationTest:33 - last name.. 
+2024-11-30 19:06:23 INFO  TC001_AccountRegistrationTest:35 - email.. 
+2024-11-30 19:06:23 INFO  TC001_AccountRegistrationTest:37 - tele phone.. 
+2024-11-30 19:06:24 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-11-30 19:06:24 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2024-11-30 19:06:24 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 19:06:25 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 19:07:26 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 19:07:28 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 19:07:28 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 19:07:29 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 19:07:29 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 19:07:29 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 19:07:29 INFO  TC001_AccountRegistrationTest:33 - last name.. 
+2024-11-30 19:07:29 INFO  TC001_AccountRegistrationTest:35 - email.. 
+2024-11-30 19:07:29 INFO  TC001_AccountRegistrationTest:37 - tele phone.. 
+2024-11-30 19:07:30 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-11-30 19:07:30 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2024-11-30 19:07:30 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 19:07:30 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 19:08:57 INFO  TC001_AccountRegistrationTest:90 - Edge browser launched
+2024-11-30 19:09:07 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 19:09:07 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 19:09:08 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 19:09:08 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 19:09:08 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 19:09:08 INFO  TC001_AccountRegistrationTest:33 - last name.. 
+2024-11-30 19:09:08 INFO  TC001_AccountRegistrationTest:35 - email.. 
+2024-11-30 19:09:08 INFO  TC001_AccountRegistrationTest:37 - tele phone.. 
+2024-11-30 19:09:10 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-11-30 19:09:10 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2024-11-30 19:09:10 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 19:09:11 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 19:14:22 INFO  TC001_AccountRegistrationTest:86 - Chrome browser launched
+2024-11-30 19:14:24 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 19:14:24 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 19:14:25 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 19:14:25 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 19:14:25 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 19:14:25 INFO  TC001_AccountRegistrationTest:33 - last name.. 
+2024-11-30 19:14:26 INFO  TC001_AccountRegistrationTest:35 - email.. 
+2024-11-30 19:14:26 INFO  TC001_AccountRegistrationTest:37 - tele phone.. 
+2024-11-30 19:14:27 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-11-30 19:14:27 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2024-11-30 19:14:27 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 19:14:27 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 19:14:38 INFO  TC001_AccountRegistrationTest:94 - Firefox browser launched
+2024-11-30 19:14:40 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 19:14:40 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 19:14:41 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 19:14:41 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 19:14:41 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 19:14:41 INFO  TC001_AccountRegistrationTest:33 - last name.. 
+2024-11-30 19:14:41 INFO  TC001_AccountRegistrationTest:35 - email.. 
+2024-11-30 19:14:41 INFO  TC001_AccountRegistrationTest:37 - tele phone.. 
+2024-11-30 19:14:42 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-11-30 19:14:42 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2024-11-30 19:14:42 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 19:14:43 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 19:14:45 INFO  TC001_AccountRegistrationTest:90 - Edge browser launched
+2024-11-30 19:14:47 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 19:14:47 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-30 19:14:48 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-30 19:14:48 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-30 19:14:48 INFO  TC001_AccountRegistrationTest:30 - first name.. 
+2024-11-30 19:14:48 INFO  TC001_AccountRegistrationTest:33 - last name.. 
+2024-11-30 19:14:48 INFO  TC001_AccountRegistrationTest:35 - email.. 
+2024-11-30 19:14:48 INFO  TC001_AccountRegistrationTest:37 - tele phone.. 
+2024-11-30 19:14:49 INFO  TC001_AccountRegistrationTest:44 - Validating expected message..
+2024-11-30 19:14:49 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2024-11-30 19:14:49 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 19:14:51 INFO  TC001_AccountRegistrationTest:116 - Browser closed successfully
+2024-11-30 19:19:04 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 19:19:04 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 19:25:48 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 19:25:48 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 20:59:09 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 20:59:09 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 20:59:09 INFO  TC001_AccountRegistrationTest:121 - Browser closed successfully
+2024-11-30 20:59:10 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-11-30 20:59:10 INFO  TC002_LoginTest:19 - in try block
+2024-11-30 20:59:10 ERROR TC002_LoginTest:46 - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=131.0.6778.85)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [f61b67845e0cb7252f16af9b8e8ea9e1, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.85, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:33557}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.2:4444/sessio..., se:cdpVersion: 131.0.6778.85, se:containerName: , se:noVncPort: 7900, se:vnc: ws://172.18.0.2:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.2:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f61b67845e0cb7252f16af9b8e8ea9e1
+2024-11-30 20:59:11 INFO  TC002_LoginTest:121 - Browser closed successfully
+2024-11-30 21:04:01 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-30 21:04:01 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-30 21:04:02 INFO  TC001_AccountRegistrationTest:121 - Browser closed successfully
+2024-11-30 21:04:02 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-11-30 21:04:02 INFO  TC002_LoginTest:19 - in try block
+2024-11-30 21:04:03 ERROR TC002_LoginTest:46 - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=131.0.6778.85)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [623619942c0026fc6fc2d4fcfffe9dda, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.85, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:39871}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.2:4444/sessio..., se:cdpVersion: 131.0.6778.85, se:containerName: , se:noVncPort: 7900, se:vnc: ws://172.18.0.2:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.2:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 623619942c0026fc6fc2d4fcfffe9dda
+2024-11-30 21:04:03 INFO  TC002_LoginTest:121 - Browser closed successfully
